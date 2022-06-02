@@ -1,9 +1,4 @@
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <h1>Hey there! Welcome to my GitHub page!</h1>
-
-<hr>
 
 <h2>As you can see my name is Noizenne ... Not really, It's Karla Mae.</h2>
 
