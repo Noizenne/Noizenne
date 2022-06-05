@@ -1,6 +1,6 @@
-<h1>Hey there! Welcome to my GitHub page!</h1>
+# Hey there! Welcome to my GitHub page!
 
-<h2>As you can see my name is Noizenne ... Not really, It's Karla Mae.</h2>
+## As you can see my name is Noizenne ... Not really, It's Karla Mae.
 
 ![IMG_20180408_113211_795](https://user-images.githubusercontent.com/73695367/171703902-27d35978-d3f8-4d2a-860c-573fd5827ba8.jpg)
 
