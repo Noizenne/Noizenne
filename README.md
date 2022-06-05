@@ -12,4 +12,4 @@
 
 :gem: Funfact: I've met the norwegian voiceactor of SpongeBob, have terrible sense of direction and I've been really athletic since I was a kid but never once broken or injured anything which I think is amamzing.
 
-:gem: Contact me on: 
+:gem: Contact me on: [My LinkedIn](https://www.linkedin.com/in/karla-mae-rabe-71b1351b5)
