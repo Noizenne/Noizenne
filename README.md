@@ -6,9 +6,9 @@
 
 :gem: I am currently studying Web Development part time at Noroff School of Technology & Digital Media while I am also working part time as a kindergarten assistant.
 
-:gem: I am now working on: workflow.
+:gem: I am now working on: my semester project.
 
-:gem: I am looking for help on: JavaScript, so if you have time on your hands, please help a girl out ! 
+:gem: I am looking for help on: JavaScript ! 
 
 :gem: Funfact: I've met the norwegian voiceactor of SpongeBob, have terrible sense of direction and I've been really athletic since I was a kid but never once broken or injured anything which I think is amamzing.
 
