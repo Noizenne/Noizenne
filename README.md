@@ -1,12 +1,12 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF09E4&center=true&lines=My+name+is+Karla.;Welcome+to+my+Github+page+!)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF09E4&center=true&lines=Welcome+!.;Welcome+to+my+Github+page+!)
 
 ![IMG_20180408_113211_795](https://user-images.githubusercontent.com/73695367/171703902-27d35978-d3f8-4d2a-860c-573fd5827ba8.jpg)
 
-:gem: I am currently finishing up studying Web Development at Noroff School of Technology & Digital Media while I am also working part time as a kindergarten assistant.
+:gem: I am currently ...
 
-:gem: I am now working on: portfolio.
+:gem: I am now working on: .
 
-:gem: Funfact: I've met the norwegian voiceactor of SpongeBob, have terrible sense of direction and I've been really athletic since I was a kid but never once broken or injured anything which I think is amamzing.
+:gem: Funfact: I have a bad sense of direction.
 
 :gem: Skills I've been working on:
   
@@ -32,12 +32,6 @@
 <a href="https://github.com/Noizenne" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/karla-mae-rabe-71b1351b5" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  <a href="https://instagram.com/karlamae_r" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 <div align="center">
