@@ -1,7 +1,5 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF09E4&center=true&lines=Welcome+!;Welcome+to+my+Github+page+!)
 
-![IMG_20180408_113211_795](https://user-images.githubusercontent.com/73695367/171703902-27d35978-d3f8-4d2a-860c-573fd5827ba8.jpg)
-
 :gem: I am currently studying at university.
 
 :gem: I am now working on: a pomodoro app.
